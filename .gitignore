@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.plastic
+/.vs/Text101/v16
+/UserSettings
+/Temp
+/ProjectSettings
+/Packages
+/obj/Debug
+/Logs
+/Library
+/ignore.conf
+/Build.zip
+/Build
+/Assets
+/.vsconfig
